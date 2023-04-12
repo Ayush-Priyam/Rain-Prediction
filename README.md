@@ -1,5 +1,6 @@
 # Rain Prediction
 [March 2023]
+
 This project was done as a part of the Honors portion of the IBM Machine Learning Course on Coursera
 ### Built a classifier to predict whether there will be rain the following day or not.
 
